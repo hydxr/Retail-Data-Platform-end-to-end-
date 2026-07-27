@@ -318,8 +318,8 @@ The project generates:
 
 Aspiring Data Engineer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/hydxr
+
 
 ---
 
-# ⭐ If you found this project useful, consider giving it a Star.
